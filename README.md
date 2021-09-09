@@ -1,7 +1,7 @@
 # hello-world
 Repository
 
-Learning HTML and CSS
+Learning HTML, CSS, and Javascript
 Now GitHub!
 
 
